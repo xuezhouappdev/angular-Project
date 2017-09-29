@@ -1,3 +1,11 @@
-/**
- * Created by xuezhou on 8/8/17.
- */
+import {Component} from '@angular/core';
+
+@Component({
+    selector:"app-header",
+    templateUrl:"./header.component.html"
+
+})
+
+export class HeaderComponent{
+
+}
